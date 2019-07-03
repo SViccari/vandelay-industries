@@ -1,0 +1,13 @@
+<%= image_tag("seinfeld-logo.png") %>
+
+<main class="container">
+  <h1>
+    Welcome to Seinfeld's 30th Anniversary Scavenger Hunt!
+  </h1>
+
+  <%= link_to(
+    "Start scavenger hunt",
+    clue_path(location: "apartment"),
+    class: "button"
+  ) %>
+</main>

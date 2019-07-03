@@ -1,0 +1,17 @@
+<main class="clue-container">
+  <h1>Scavenger Clue</h1>
+
+  <p class="clue">
+    <%= raw @clue.formatted_text %>
+  </p>
+
+  <iframe
+    width="560"
+    height="315"
+    src=<%= @clue.video_url %>
+    frameborder="0"
+    allow="accelerometer; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen>
+  </iframe>
+
+</main>

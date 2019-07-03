@@ -8,3 +8,8 @@ and scavenger hunt, so I brought the scavenger hunt to Tim.
 To start the application, run:
 
     % ./bin/setup
+
+
+To run the tests, run:
+
+    % bundle exec rspec

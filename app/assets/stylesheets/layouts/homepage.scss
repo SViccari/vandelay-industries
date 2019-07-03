@@ -1,0 +1,28 @@
+body {
+  background-color: $red;
+}
+
+img {
+  padding-top: 50px;
+  height: auto;
+  width: 100%;
+  max-height: 600px;
+}
+
+.container {
+  text-align: center;
+  padding: 25px 50px;
+
+  h1 {
+    margin-bottom: 50px;
+  }
+
+  a {
+    margin-top: 10px;
+    text-decoration: none;
+    color: $base-font-color;
+    font-size: 20px;
+    border: 1px solid $base-font-color;
+    padding: 10px;
+  }
+}
