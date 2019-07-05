@@ -19,5 +19,17 @@ class ClueFinder
     Clue.all.find { |clue| clue.location == location }
   end
 
-  MissingClue = Struct.new(:location)
+  class MissingClue
+    def initialize(location)
+      @location = location
+    end
+
+    def text
+      "Sorry, no clue lives here"
+    end
+
+    def video_url
+      "https://www.youtube.com/embed/EQnaRtNMGMI"
+    end
+  end
 end

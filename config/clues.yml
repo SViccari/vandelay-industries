@@ -4,6 +4,47 @@
     - "There was no car in sight<br/>"
     - "Go to the place<br/>"
     - "Where there is no sunlight"
-  video_url: "https://www.youtube.com/embed/pOhce-7MJYI"
+  video_url: "https://www.youtube.com/embed/pOhce-7MJYI?start=45"
   location: "apartment"
   destination: "garage"
+-
+  text_html:
+    - "George had been swimming<br/>"
+    - "And the water was cold<br/>"
+    - "There may have been shrinkage<br/>"
+    - "At least so we're told"
+  video_url: "https://www.youtube.com/embed/ldUZvxjKMGs?start=70"
+  location: "garage"
+  destination: "pool"
+-
+  text_html:
+    - "We don't have an Enzo<br/>"
+    - "That gives terrible hair cuts<br/>"
+    - "But there is beauty parlor<br/>"
+    - "With a bathub for mutts"
+  video_url: "https://www.youtube.com/embed/j2A9vRjwfQY"
+  location: "pool"
+  destination: "barber"
+-
+  text_html:
+    - "Tropic of Cancer is missing<br/>"
+    - "And a hefty fine is due<br/>"
+    - "Visit the little library<br/>"
+    - "Before Mr. Bookman finds you"
+  video_url: "https://www.youtube.com/embed/D9tP9fI2zbE"
+  location: "barber"
+  destination: "library"
+-
+  text_html:
+    - "Congratulations!<br/>"
+    - "You followed the trail<br/>"
+    - "And You've reached The Finale<br/>"
+    - "Where the gang goes to jail<br/>"
+    - "<br/>"
+    - "Like any good scavenger hunt<br/>"
+    - "This quest leads to a treasure<br/>"
+    - "Return to where you started<br/>"
+    - "And find the tool that's used to measure<br/>"
+  video_url: "https://www.youtube.com/embed/4ZOLs03vILs"
+  location: "library"
+  destination: "apartment"
