@@ -1,24 +1,10 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# An App about Nothing
+Tim and I couldn't make it to NYC for the Seinfeld 30th Anniversary celebration
+and scavenger hunt, so I brought the scavenger hunt to Tim.
 
-Things you may want to cover:
+# Because we live in a society, here's how to get started:
+To start the application, run:
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+    % ./bin/setup
